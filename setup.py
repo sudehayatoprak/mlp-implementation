@@ -1,8 +1,6 @@
 """
 Setup script for MLP Implementation package
 
-Author: CENG403 Student
-Course: CENG403 - Spring 2025
 """
 
 from setuptools import setup, find_packages
@@ -16,12 +14,10 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="mlp-implementation",
     version="1.0.0",
-    author="CENG403 Student",
-    author_email="student@university.edu",
     description="Multi-layer Perceptron implementation from scratch and using PyTorch",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/mlp-implementation",
+    url="https://github.com/sudehayatoprak/mlp-implementation",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
