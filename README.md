@@ -1,6 +1,6 @@
 # Multi-layer Perceptron Implementation
 
-A comprehensive implementation of Multi-layer Perceptrons (MLPs) from scratch and using PyTorch, developed as part of CENG403 - Spring 2025 coursework.
+A comprehensive implementation of Multi-layer Perceptrons (MLPs) from scratch and using PyTorch.
 
 ## 📋 Table of Contents
 
@@ -11,8 +11,6 @@ A comprehensive implementation of Multi-layer Perceptrons (MLPs) from scratch an
 - [Usage](#usage)
 - [Results](#results)
 - [Implementation Details](#implementation-details)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
@@ -217,25 +215,7 @@ The results demonstrate the importance of proper hyperparameter tuning:
    - Confusion matrix shows good class separation
    - Training curves show healthy convergence
 
-## 🤝 Contributing
 
-This is an educational project for CENG403. If you find any issues or have suggestions:
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 📄 License
-
-This project is part of academic coursework and is intended for educational purposes.
-
-## 👨‍🎓 Author
-
-**CENG403 Student**  
-Course: CENG403 - Spring 2025  
-Institution: [Your University]
-
----
 
 *This implementation demonstrates both theoretical understanding of neural networks and practical deep learning skills using modern frameworks.*
