@@ -81,7 +81,7 @@ mlp_implementation/
 3. **Download MNIST dataset:**
    ```bash
    # The dataset will be automatically downloaded when running the PyTorch implementation
-   # Or manually download from: https://github.com/Bedrettin-Cetinkaya/imbalancedMNIST
+   # Or manually download
    ```
 
 ## 💻 Usage
