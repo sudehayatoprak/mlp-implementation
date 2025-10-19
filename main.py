@@ -4,9 +4,6 @@ Main script demonstrating both MLP implementations
 
 This script showcases both the from-scratch NumPy implementation and the PyTorch implementation
 with proper argument parsing and example usage.
-
-Author: CENG403 Student
-Course: CENG403 - Spring 2025
 """
 
 import argparse
